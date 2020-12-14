@@ -1,5 +1,5 @@
 # SE05-HoangDuc-Day7
-- Mục tiêu của phần mềm này: Xây dựng phần mềm quản lý khách sạn
+- Mục tiêu của phần mềm này: Xây dựng phần mềm quản lý khách sạn.
 - Mục tiêu doanh nghiệp : Xây dựng các hệ thống quản lý cho các đối tượng như sau:
 1. Về khách hàng : phần mềm có thể đặt phòng, hủy phòng và nhận phòng, thực hiện các thanh toán cho khách hàng, thực hiện các giao dịch online cho khách hàng.
 2. Về Saler :kiểm tra yêu cầu đặt phòng, hủy phòng, nhận phòng cho khách hàng, giao dịch với khách hàng.
